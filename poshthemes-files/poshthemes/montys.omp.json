@@ -94,7 +94,7 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#CDD6F4",
+          "foreground": "#cd5e42",
           "style": "plain",
           "template": "λ ",
           "type": "text"
