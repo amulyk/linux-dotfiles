@@ -94,15 +94,9 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#cd5e42",
+          "foreground": "#CDD6F4",
           "style": "plain",
-          "template": "\ue3bf ",
-          "type": "root"
-        },
-        {
-          "foreground": "#CD4277",
-          "style": "plain",
-          "template": " <#45F1C2><b>\u26a1</b></><b>{{ .UserName }}</b> <#26C6DA>\u276f</><#45F1C2>\u276f</>",
+          "template": "λ ",
           "type": "text"
         }
       ],
